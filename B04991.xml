@@ -1,0 +1,272 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Logomachia: a harmony in discord, shewing the mutual submission of the Episcopal party in the city, and the independent souldiery, to Charles, by the grace of God, King of England, Scotland, France &amp; Ireland, defender of the faith.</title>
+            <author>Rich, Jeremiah, fl. 1664.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04991</idno>
+            <idno type="STC">Wing R1343</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.2[345]</idno>
+            <idno type="EEBO-CITATION">99886994</idno>
+            <idno type="PROQUEST">ocm99886994</idno>
+            <idno type="VID">181666</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04991)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181666)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A1:1[348])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Logomachia: a harmony in discord, shewing the mutual submission of the Episcopal party in the city, and the independent souldiery, to Charles, by the grace of God, King of England, Scotland, France &amp; Ireland, defender of the faith.</title>
+                  <author>Rich, Jeremiah, fl. 1664.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Peter Dring, at the Sun in the Poultry,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>[1660?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Jeremiah Rich.</note>
+                  <note>Verse: "Where am I now! upon some unseen wing ..."</note>
+                  <note>Year of publication from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Allegiance --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:181666:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 20 -->
+            <head>LOGOMACHIA: A Harmony in Diſcord, SHEWING The mutual ſubmiſſion of the Epiſcopal party in the City, and the Independent Souldiery, To <hi>CHARLES,</hi> by the Grace of God, King of <hi>England, Scotland, France &amp; Ireland, Defender of the FAITH.</hi>
+            </head>
+            <sp>
+               <speaker>City.</speaker>
+               <lg>
+                  <l>WHere am I now! upon ſome unſeen wing,</l>
+                  <l>Hither I have been brought; the preſence of a King</l>
+                  <l>Ere long will grace my bulwarks, and adorn</l>
+                  <l>My brow with luſtre, like the gray-ey'd morn.</l>
+                  <l>Though wayward fortune had malign'd my State,</l>
+                  <l>And croſt my Noble Actions out of date,</l>
+                  <l>Yet I am metropolitan, and my Name</l>
+                  <l>Shall live, and ſtand equivalent with fame.</l>
+                  <l>Rouze up yee ſlumbring Lions, hollow</l>
+                  <l>My war-like hearts, go, and your General follow;</l>
+                  <l>You whoſe undaunted valour has been crown'd</l>
+                  <l>With Noble Victories the world around,</l>
+                  <l>Come forth, and with your fiers chaſe away</l>
+                  <l>The night, and meet the Chariot of the day.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <lg>
+                  <l>Preſumptuous wretch! to call mee from my bed,</l>
+                  <l>And with vain thoughts perplex my troubled head;</l>
+                  <l>A dullneſs ſhuts mine eyes, I fain would reſt</l>
+                  <l>A while ſecure; how happy, Oh how bleſt,</l>
+                  <l>Are thoſe that ſleep eternally! and hee</l>
+                  <l>That lives and dieth in obſcurity!</l>
+                  <l>Bear mee thou gentle Earth, for ever I</l>
+                  <l>Would preſs thy flowry green; alaſs to dye,</l>
+                  <l>Is leſs than to bee born; life is a bubble,</l>
+                  <l>A minutes joy, and full of pleaſing trouble;</l>
+                  <l>Let mee alone; ah mee, that I could take</l>
+                  <l>So kinde a ſleep, that I might never wake.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>City.</speaker>
+               <lg>
+                  <l>What pale-fac'd diſcontent doth ſeize thee now?</l>
+                  <l>Or why does anger furrow up thy brow?</l>
+                  <l>Or is't deſpair, opinion, timorous fear</l>
+                  <l>Makes thee look through the glaſſes of a tear?</l>
+                  <l>Whoſe valour and brave fortitude aſpires</l>
+                  <l>Above the Earth in circles of blew fires.</l>
+                  <l>The King grants mercy, wilt thou now refuſe</l>
+                  <l>T'imbrace it, and his Royal Love abuſe?</l>
+                  <l>The branded ſlave, that tuggs the weary Oar,</l>
+                  <l>Having the Sabbath of a welcome ſhore</l>
+                  <l>Procured for him by his Gracious King,</l>
+                  <l>To free him from his ſlavery, and bring</l>
+                  <l>Him home again, but hee in love with pains,</l>
+                  <l>Huggs his tormentors, and does kiſs his chains,</l>
+                  <l>Let him work on, till for his dull delay,</l>
+                  <l>With torturing whips hee weeps himſelf away.</l>
+                  <l>How was this poor and pining City pained</l>
+                  <l>With burdens, when the many rabble reigned?</l>
+                  <l>When they had graſped in their greaſy hands</l>
+                  <l>The Kings, Lords, Biſhops, Deans, and Chapters Lands,</l>
+                  <l>And the Rates of all Commodities did riſe</l>
+                  <l>By Taxes, Seſments, Cuſtomes, and Exciſe,</l>
+                  <l>With wars, impriſonments, turmoils, vexations,</l>
+                  <l>Changing, and claſhing, death and ſequeſtrations.</l>
+                  <l>The Right of Government moſt did ſuppoſe</l>
+                  <l>Lay firſt in one mans head, then th'others noſe;</l>
+                  <l>Mean while the people flock'd in numerous ſwarms</l>
+                  <l>Of double tongues, falſe hearts, divided arms,</l>
+                  <l>And a diſtracted brain, a poiſonous breath</l>
+                  <l>Of envy, and a life-expecting death,</l>
+                  <l>Or death in midſt of life. Oh were not wee,</l>
+                  <l>The only Monuments of miſery?</l>
+                  <l>But now wee are approach'd to that wee call</l>
+                  <l>The good, if there bee earthly good at all;</l>
+                  <l>All earthly happineſs thoſe people gain</l>
+                  <l>'Bove others, where a prudent Prince doth reign.</l>
+                  <l>Kings are not diſmal Comets, but as fair</l>
+                  <l>As <hi>Phoebus,</hi> burniſh'd with his morning hair,</l>
+                  <l>That from his flaming chariot ſends his beams,</l>
+                  <l>To wake dull mortals from their drowzy dreams,</l>
+                  <l>Though oft, his glorious face, when they grow proud,</l>
+                  <l>He hides, and leaves them mantled in a cloud.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <lg>
+                  <l>Diſhevill'd hair I'le tear thee from my Crown,</l>
+                  <l>Poor tangled Ornament; mans Renown</l>
+                  <l>Is but a dream; be gone, I'le fill thy room</l>
+                  <l>With duſt, and break thee like a Spiders loom.</l>
+                  <l>It is his Right, but wherein now do yee</l>
+                  <l>Make famous his immortal memory?</l>
+                  <l>What ſingular ſervice now? that Heaven may deign,</l>
+                  <l>To gloryfie him with a happy Reign,</l>
+                  <l>On Earth? that his Illuſtrious Majeſty</l>
+                  <l>No more, may not in black oblivion lye?</l>
+                  <l>Will drinking, ſwearing, ſinging roundelaies,</l>
+                  <l>With Bonfires, May-polls, Garlands, Fidlers, Plaies,</l>
+                  <l>Deriding, ſcoffing, perſecuting too</l>
+                  <l>Thoſe that are good, are theſe the things will do</l>
+                  <l>The King ſuch honour? what, is this the thing</l>
+                  <l>Required as ſolemnity for a King?</l>
+                  <l>Will luſt and rapine, madneſs, folly, pride,</l>
+                  <l>In them who all true piety deride?</l>
+                  <l>Whoſe poiſonous breath, while they prophanely call</l>
+                  <l>To Heaven, would kill a Spider to the wall,</l>
+                  <l>And hurt the wholeſome Air; is this the thing</l>
+                  <l>Required as Solemnity for a King?</l>
+                  <l>No, come Great <hi>Charls</hi> and welcome, let thine eyes</l>
+                  <l>A little check theſe numerous fooleries,</l>
+                  <l>Rule us aright, and thou ſhalt prove that wee,</l>
+                  <l>Though ſcorn'd, the beſt of all thy Subjects bee,</l>
+                  <l>Kings are Earth's Gods, ſometimes their law their will,</l>
+                  <l>They can incourage virtue, puniſh ill;</l>
+                  <l>Thy lips are lips of knowledge, in thine eye</l>
+                  <l>Is both Humility and Majeſty;</l>
+                  <l>The boiſterous wind, that in its fury raves</l>
+                  <l>Aloft, to beat the ebbing flowing waves,</l>
+                  <l>Lockt up in <hi>Eolus</hi> Gaol, ſends gentle Gales</l>
+                  <l>Of perfum'd Air, to court the pregnant Sails,</l>
+                  <l>That the recoyling Seas as ſtill may lye</l>
+                  <l>As Virgins, while our Soveraign paſſes by.</l>
+                  <l>The Sun inveſt with Majeſty will flee</l>
+                  <l>The concave of the ſpangled Canopy,</l>
+                  <l>Leaving the Southern Chambers, as he rides</l>
+                  <l>Through <hi>Gemini,</hi> his flaming Chariot guides,</l>
+                  <l>From bright <hi>Aurora,</hi> hee will laſh away</l>
+                  <l>His horſe, to view the triumphs of the day.</l>
+                  <l>Where when thou art inthron'd, if any woo</l>
+                  <l>For Juſtice, then remember Mercy too;</l>
+                  <l>So ſhall loud Acclamations lift thy Name</l>
+                  <l>'Bove the reſounding trump of flying Fame;</l>
+                  <l>So ſhalt thou flouriſh in th'inlarged ſtore,</l>
+                  <l>Of wealth and peace, thy temples arched ore</l>
+                  <l>In a victorious Orb, which when lai'd down,</l>
+                  <l>Becauſe 'tis but a tranſitory Crown,</l>
+                  <l>Thou ſhalt bee crown'd above in ſtreets of gold,</l>
+                  <l>Where thou thy Royal Father ſhalt behold,</l>
+                  <l>In everlaſting glory uncontroull'd.</l>
+               </lg>
+            </sp>
+            <byline>By <hi>JEREMIAH RICH.</hi>
+            </byline>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Peter Dring,</hi> at the Sun in the <hi>Poultry.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
